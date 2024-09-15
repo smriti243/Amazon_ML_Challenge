@@ -7,3 +7,4 @@ __pycache__/
 
 # Image files
 images/
+processed_images/
